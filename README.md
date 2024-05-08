@@ -1,7 +1,5 @@
 # MiaOS
-MiaOS: Operating System with an Artificial Intelligence Mind
-
-# MiaOS: Córdoba Operating System with an Artificial Intelligence Mind
+# MiaOS: Operating System with an Artificial Intelligence Mind
 
 **Version**: 1.0
 **Developer**: Kozhaya Sfeir
